@@ -1,0 +1,36 @@
+{
+  "name": "Unofficial-Youtube-Api",
+  "version": "0.1.0",
+  "description": "Unofficial Youtube Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "scraper youtube",
+    "youtube",
+    "youtube-api",
+    "unofficialyoutubeapi",
+    "unofficial-youtube-api",
+    "youtube unofficial api",
+    "unofficial youtube api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrmn7/Unofficial-Youtube-Api"
+  },
+  "bugs": {
+    "url": "https://github.com/lrmn7/Unofficial-Youtube-Api/issues"
+  },
+  "homepage": "https://github.com/lrmn7/Unofficial-Youtube-Api",
+  "author": {
+    "name": "lrmn7",
+    "url": "https://github.com/lrmn7"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2"
+  }
+}
